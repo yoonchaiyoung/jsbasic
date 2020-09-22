@@ -1,4 +1,4 @@
-// 콘솔 출력을 console 내장 개게츠이 메서드를 이용
+// 콘솔 출력을 console 내장 객체의 메서드를 이용
 console.info("정보메시지");
 console.log("일반 로그");
 console.warn("경고 메시지");
